@@ -1,0 +1,47 @@
+<resources>
+  <string name="app_name">Dining App</string>
+  <string name="this_is_an_image">This is an Image</string>
+  <string name="hoursText">Hours Today:&#160;</string>
+  <string name="noChar">Test Test Test</string>
+  <string name="Tim">Tim &amp; Jeanne\'s Dining Commons</string>
+  <string name="Bistro">T &amp; J Bistro</string>
+  <string name="Ely">Ely Harvest</string>
+  <string name="Wilson">Wilson Cafe</string>
+  <string name="Market">Market Place</string>
+  <string name="Garden">Garden Cafe</string>
+  <string name="MenuTitle">Go&#160;to&#160;Menu</string>
+  <string name="MoreInfo">More Info</string>
+  <string name="title_home">Home</string>
+  <string name="title_events">Events</string>
+  <string name="title_feedback">Feedback</string>
+  <string name="AF">April Fools Day</string>
+  <string name="AFDate">April 1, 2020</string>
+  <string name="AFDescription">Join us for a lunch full of surprises! Are you really eating what you think you are? Come find out, and have a funky meal while you\'re at it!</string>
+  <string name="TT">Thai Tuesday</string>
+  <string name="TTDate">April 7, 2020</string>
+  <string name="TTDescription">Sick of eating Bistro Pizza or Ely Harvest smoothies everyday? Come try some authentic thai cuisine for lunch today! You might have a new favorite meal after today!</string>
+  <string name="Easter">Easter Monday</string>
+  <string name="EasterDate">April 13, 2020</string>
+  <string name="EasterDescription">On the menu tonight: Easter Dinner! Come enjoy some ham, carrots and pototos for an Easter with your friends. Don\'t forget a chocolate bunny on the way out!</string>
+  <string name="EarthDay">Earth Day</string>
+  <string name="EarthDayDate">April 22, 2020</string>
+  <string name="ignore" />
+  <string name="EarthDayDescription">Help us celebrate Earth Day by enjoying some tasty sustainable, organic and locally grow foods! Consider participating in our recycled art contest, and win up to 20 owl bucks!</string>
+  <string name="Commuter">Commuter Appreciation Day</string>
+  <string name="CommuterDate">April 27, 2020</string>
+  <string name="CommuterDescription">Hey commuter students! Stop by the Tekoa Room on your way to the Dining Commons for a free meal ticket. Lunch is on us today!</string>
+  <string name="May">May Day</string>
+  <string name="MayDate">May 1, 2020</string>
+  <string name="MayDescription">Let\'s start May with a bang! Today\'s May Day lunch will feature an enhanced salad bar, many tasty desserts, and live performances all day!</string>
+  <string name="finals">Last Night Before Finals</string>
+  <string name="finalsDate">May 4, 2020</string>
+  <string name="finalsDescription">Take a break from studying and come indulge in some tasty treats. Back by popular demand, we have mozzarella sticks, fried mac and cheese, tenders, and so much more!</string>
+  <string name="Cinco">Cinco De Mayo</string>
+  <string name="CincoDate">May 5, 2020</string>
+  <string name="CincoDescription">Did someone say Taco Tuesday? We did! Join us for the best Taco Tuesday you\'ve ever seen! If tacos aren\'t your thing, then try our burritos, quesadillas, and virgin margaritas!</string>
+  <string name="brunch" />
+  <string name="finalsbrunch">First Day of Finals Brunch</string>
+  <string name="brunchDate">May 6, 2020</string>
+  <string name="BrunchDescription">"Kick off finals week with a huge brunch! Pancakes, waffles, french toast, eggs, bacon, sasague, hash browns, muffins, pastrys, orange juice.....endless possibilities. "</string>
+  <string name="map_key" translatable="false">AIzaSyAG5GRmuGXM2o3DqS5ikkd2zBUKer-1UWU</string>
+</resources>

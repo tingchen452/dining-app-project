@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:tools="http://schemas.android.com/tools"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  tools:context=".MainActivity">
+  <ScrollView
+    android:id="@+id/scrollViewMain"
+    style="@android:style/Widget.Material.Light.ScrollView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_constraintBottom_toBottomOf="parent"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toTopOf="parent">
+    <LinearLayout
+      android:id="@+id/linearLayoutMain"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:background="#ffffff"
+      android:orientation="vertical">
+
+      <View
+        android:id="@+id/divider"
+        android:layout_width="match_parent"
+        android:layout_height="8dp"
+        android:background="#ffffff" />
+
+      <com.google.android.material.card.MaterialCardView
+        android:id="@+id/card1"
+        style="@style/Widget.MaterialComponents.CardView"
+        android:layout_width="@dimen/card_width"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        app:cardCornerRadius="4dp"
+        app:contentPadding="5dp">
+
+        <LinearLayout
+          android:id="@+id/linLayV1"
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:orientation="vertical">
+
+          <ImageView
+            android:id="@+id/image1"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:adjustViewBounds="true"
+            android:contentDescription="@string/this_is_an_image"
+            android:cropToPadding="false"
+            android:scaleType="centerCrop" />
+
+          <TextView
+            android:id="@+id/text1.1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Tim"
+            android:textColor="@color/titleFont"
+            android:textSize="24sp" />
+
+          <TextView
+            android:id="@+id/text1.2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/hoursText"
+            android:textColor="@color/titleFont" />
+
+          <View
+            android:id="@+id/divider7"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/card_textview_divider"
+            android:background="#FFFFFF" />
+
+          <TextView
+            android:id="@+id/text1.3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/descFont" />
+
+          <LinearLayout
+            android:id="@+id/linLayH1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <com.google.android.material.button.MaterialButton
+              android:id="@+id/button1.1"
+              android:layout_width="@dimen/button_width"
+              android:layout_height="wrap_content"
+              android:layout_weight="1"
+              android:insetLeft="16dp"
+              android:insetRight="16dp"
+              android:text="@string/MenuTitle" />
+
+            <com.google.android.material.button.MaterialButton
+              android:id="@+id/button1.2"
+              android:layout_width="@dimen/button_width"
+              android:layout_height="wrap_content"
+              android:layout_weight="1"
+              android:insetLeft="16dp"
+              android:insetRight="16dp"
+              android:text="@string/MoreInfo" />
+          </LinearLayout>
+
+        </LinearLayout>
+
+      </com.google.android.material.card.MaterialCardView>
+
+      <View
+        android:id="@+id/divider1"
+        android:layout_width="match_parent"
+        android:layout_height="8dp"
+        android:background="#ffffff" />
+
+      <com.google.android.material.card.MaterialCardView
+        android:id="@+id/card2"
+        android:layout_width="@dimen/card_width"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        app:cardCornerRadius="4dp"
+        app:contentPadding="5dp">
+
+        <LinearLayout
+          android:id="@+id/linLayV2"
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:orientation="vertical">
+
+          <ImageView
+            android:id="@+id/image2"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:adjustViewBounds="true"
+            android:contentDescription="@string/this_is_an_image"
+            android:cropToPadding="false"
+            android:scaleType="centerCrop" />
+
+          <TextView
+            android:id="@+id/text2.1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Market"
+            android:textColor="@color/titleFont"
+            android:textSize="24sp" />
+
+          <TextView
+            android:id="@+id/text2.2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/hoursText"
+            android:textColor="@color/titleFont" />
+
+          <View
+            android:id="@+id/divider8"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/card_textview_divider"
+            android:background="#FFFFFF" />
+
+          <TextView
+            android:id="@+id/text2.3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/descFont" />
+
+          <LinearLayout
+            android:id="@+id/linLayH2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <com.google.android.material.button.MaterialButton
+              android:id="@+id/button2.1"
+              android:layout_width="@dimen/button_width"
+              android:layout_height="wrap_content"
+              android:layout_weight="1"
+              android:insetLeft="16dp"
+              android:insetRight="16dp"
+              android:text="@string/MenuTitle" />
+
+            <com.google.android.material.button.MaterialButton
+              android:id="@+id/button2.2"
+              android:layout_width="@dimen/button_width"
+              android:layout_height="wrap_content"
+              android:layout_weight="1"
+              android:insetLeft="16dp"
+              android:insetRight="16dp"
+              android:text="@string/MoreInfo" />
+          </LinearLayout>
+        </LinearLayout>
+
+      </com.google.android.material.card.MaterialCardView>
+
+      <View
+        android:id="@+id/divider2"
+        android:layout_width="match_parent"
+        android:layout_height="8dp"
+        android:background="#ffffff" />
+
+      <com.google.android.material.card.MaterialCardView
+        android:id="@+id/card3"
+        android:layout_width="@dimen/card_width"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        app:cardCornerRadius="4dp"
+        app:contentPadding="5dp">
+
+        <LinearLayout
+          android:id="@+id/linLayV3"
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:orientation="vertical">
+
+          <ImageView
+            android:id="@+id/image3"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:adjustViewBounds="true"
+            android:contentDescription="@string/this_is_an_image"
+            android:cropToPadding="false"
+            android:scaleType="centerCrop" />
+          <TextView
+            android:id="@+id/text3.1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Bistro"
+            android:textColor="@color/titleFont"
+            android:textSize="24sp" />
+
+          <TextView
+            android:id="@+id/text3.2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/hoursText"
+            android:textColor="@color/titleFont" />
+
+          <View
+            android:id="@+id/divider9"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/card_textview_divider"
+            android:background="#FFFFFF" />
+
+          <TextView
+            android:id="@+id/text3.3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/descFont" />
+
+          <LinearLayout
+            android:id="@+id/linLayH3"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <com.google.android.material.button.MaterialButton
+              android:id="@+id/button3.1"
+              android:layout_width="@dimen/button_width"
+              android:layout_height="wrap_content"
+              android:layout_weight="1"
+              android:insetLeft="16dp"
+              android:insetRight="16dp"
+              android:text="@string/MenuTitle" />
+
+            <com.google.android.material.button.MaterialButton
+              android:id="@+id/button3.2"
+              android:layout_width="@dimen/button_width"
+              android:layout_height="wrap_content"
+              android:layout_weight="1"
+              android:insetLeft="16dp"
+              android:insetRight="16dp"
+              android:text="@string/MoreInfo" />
+          </LinearLayout>
+        </LinearLayout>
+      </com.google.android.material.card.MaterialCardView>
+
+      <View
+        android:id="@+id/divider3"
+        android:layout_width="match_parent"
+        android:layout_height="8dp"
+        android:background="#ffffff" />
+
+      <com.google.android.material.card.MaterialCardView
+        android:id="@+id/card4"
+        android:layout_width="@dimen/card_width"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        app:cardCornerRadius="4dp"
+        app:contentPadding="5dp">
+
+        <LinearLayout
+          android:id="@+id/linLayV4"
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:orientation="vertical">
+
+          <ImageView
+            android:id="@+id/image4"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:adjustViewBounds="true"
+            android:contentDescription="@string/this_is_an_image"
+            android:cropToPadding="false"
+            android:scaleType="centerCrop" />
+          <TextView
+            android:id="@+id/text4.1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Ely"
+            android:textColor="@color/titleFont"
+            android:textSize="24sp" />
+
+          <TextView
+            android:id="@+id/text4.2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/hoursText"
+            android:textColor="@color/titleFont" />
+
+          <View
+            android:id="@+id/divider10"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/card_textview_divider"
+            android:background="#FFFFFF" />
+
+          <TextView
+            android:id="@+id/text4.3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/descFont" />
+
+          <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <com.google.android.material.button.MaterialButton
+              android:id="@+id/button4.1"
+              android:layout_width="@dimen/button_width"
+              android:layout_height="wrap_content"
+              android:layout_weight="1"
+              android:insetLeft="16dp"
+              android:insetRight="16dp"
+              android:text="@string/MenuTitle" />
+
+            <com.google.android.material.button.MaterialButton
+              android:id="@+id/button4.2"
+              android:layout_width="@dimen/button_width"
+              android:layout_height="wrap_content"
+              android:layout_weight="1"
+              android:insetLeft="16dp"
+              android:insetRight="16dp"
+              android:text="@string/MoreInfo" />
+          </LinearLayout>
+        </LinearLayout>
+      </com.google.android.material.card.MaterialCardView>
+
+      <View
+        android:id="@+id/divider4"
+        android:layout_width="match_parent"
+        android:layout_height="8dp"
+        android:background="#ffffff" />
+
+      <com.google.android.material.card.MaterialCardView
+        android:id="@+id/card5"
+        android:layout_width="@dimen/card_width"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        app:cardCornerRadius="4dp"
+        app:contentPadding="5dp">
+
+        <LinearLayout
+          android:id="@+id/linLay5"
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:orientation="vertical">
+
+          <ImageView
+            android:id="@+id/image5"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:adjustViewBounds="true"
+            android:contentDescription="@string/this_is_an_image"
+            android:cropToPadding="false"
+            android:scaleType="centerCrop" />
+
+          <TextView
+            android:id="@+id/text5.1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Wilson"
+            android:textColor="@color/titleFont"
+            android:textSize="24sp" />
+
+          <TextView
+            android:id="@+id/text5.2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/hoursText"
+            android:textColor="@color/titleFont" />
+
+          <View
+            android:id="@+id/divider11"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/card_textview_divider"
+            android:background="#FFFFFF" />
+
+          <TextView
+            android:id="@+id/text5.3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/descFont" />
+
+          <LinearLayout
+            android:id="@+id/linLayH4"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <com.google.android.material.button.MaterialButton
+              android:id="@+id/button5.1"
+              android:layout_width="@dimen/button_width"
+              android:layout_height="wrap_content"
+              android:layout_weight="1"
+              android:insetLeft="16dp"
+              android:insetRight="16dp"
+              android:text="@string/MenuTitle" />
+
+            <com.google.android.material.button.MaterialButton
+              android:id="@+id/button5.2"
+              android:layout_width="@dimen/button_width"
+              android:layout_height="wrap_content"
+              android:layout_weight="1"
+              android:insetLeft="16dp"
+              android:insetRight="16dp"
+              android:text="@string/MoreInfo" />
+          </LinearLayout>
+        </LinearLayout>
+      </com.google.android.material.card.MaterialCardView>
+
+
+      <View
+        android:id="@+id/divider5"
+        android:layout_width="match_parent"
+        android:layout_height="8dp"
+        android:background="#ffffff" />
+
+      <com.google.android.material.card.MaterialCardView
+        android:id="@+id/card6"
+        android:layout_width="@dimen/card_width"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        app:cardCornerRadius="4dp"
+        app:contentPadding="5dp">
+
+        <LinearLayout
+          android:id="@+id/linLayV6"
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:orientation="vertical">
+
+          <ImageView
+            android:id="@+id/image6"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:adjustViewBounds="true"
+            android:contentDescription="@string/this_is_an_image"
+            android:cropToPadding="false"
+            android:scaleType="centerCrop" />
+
+          <TextView
+            android:id="@+id/text6.1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Garden"
+            android:textColor="@color/titleFont"
+            android:textSize="24sp" />
+
+          <TextView
+            android:id="@+id/text6.2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/hoursText"
+            android:textColor="@color/titleFont" />
+
+          <View
+            android:id="@+id/divider12"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/card_textview_divider"
+            android:background="#FFFFFF" />
+
+          <TextView
+            android:id="@+id/text6.3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/descFont" />
+
+          <LinearLayout
+            android:id="@+id/linLayH6"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <com.google.android.material.button.MaterialButton
+              android:id="@+id/button6.1"
+              android:layout_width="@dimen/button_width"
+              android:layout_height="wrap_content"
+              android:layout_weight="1"
+              android:insetLeft="16dp"
+              android:insetRight="16dp"
+              android:text="@string/MenuTitle" />
+
+            <com.google.android.material.button.MaterialButton
+              android:id="@+id/button6.2"
+              android:layout_width="@dimen/button_width"
+              android:layout_height="wrap_content"
+              android:layout_weight="1"
+              android:insetLeft="16dp"
+              android:insetRight="16dp"
+              android:text="@string/MoreInfo" />
+          </LinearLayout>
+        </LinearLayout>
+      </com.google.android.material.card.MaterialCardView>
+
+      <View
+        android:id="@+id/divider6"
+        android:layout_width="match_parent"
+        android:layout_height="8dp"
+        android:background="#ffffff" />
+
+    </LinearLayout>
+  </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:tools="http://schemas.android.com/tools"
+  android:id="@+id/mobile_navigation"
+  app:startDestination="@+id/navigation_home">
+
+  <fragment
+    android:id="@+id/navigation_home"
+    android:name="ui.home.HomeFragment"
+    tools:layout="@layout/fragment_home">
+    <action
+      android:id="@+id/action_home_to_menuDynamic"
+      app:destination="@+id/menuDynamicFragment"
+      app:enterAnim="@anim/fragment_fade_enter"
+      app:exitAnim="@anim/fragment_fade_exit" />
+    <action
+      android:id="@+id/action_home_to_menuStatic"
+      app:destination="@id/menuStaticFragment"
+      app:enterAnim="@anim/fragment_fade_enter"
+      app:exitAnim="@anim/fragment_fade_exit" />
+    <action
+      android:id="@+id/action_home_to_map"
+      app:destination="@id/mapFragment"
+      app:enterAnim="@anim/fragment_fade_enter"
+      app:exitAnim="@anim/fragment_fade_exit" />
+  </fragment>
+
+  <fragment
+    android:id="@+id/navigation_events"
+    android:name="ui.events.EventFragment"
+    tools:layout="@layout/fragment_events" />
+
+  <fragment
+    android:id="@+id/navigation_feedback"
+    android:name="ui.feedback.FeedbackFragment"
+    tools:layout="@layout/fragment_feedback" />
+
+  <fragment
+    android:id="@+id/menuDynamicFragment"
+    android:name="ui.menuDynamic.MenuDynamicFragment"
+    android:label="fragment_menu_dynamic"
+    tools:layout="@layout/fragment_menu_dynamic" />
+  <fragment
+    android:id="@+id/menuStaticFragment"
+    android:name="ui.menuStatic.MenuStaticFragment"
+    android:label="fragment_menu_static"
+    tools:layout="@layout/fragment_menu_static" />
+  <fragment
+      android:id="@+id/mapFragment"
+      android:name="ui.map.MapFragment"
+      android:label="fragment_map"
+      tools:layout="@layout/fragment_map"/>
+
+</navigation>

@@ -1,0 +1,4451 @@
+[
+  {
+    "name": "Tim & Jeanne's Dining Commons",
+    "description": "Serving continuous dining throughout the day! Offerings include all you care to eat Tex-Mex, Mediterranean, Comfort meals, stir fry, salad bar, allergen-free fare, and more.",
+    "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=01&locationName=Tim+%26+Jeanne%27s+Dining+Commons&naFlag=1",
+    "menuCollection": {
+      "dayMenus": {
+        "3/10/2020": {
+          "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=01&locationName=Tim+%26+Jeanne%27s+Dining+Commons&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=3%2f10%2f2020",
+          "meals": {}
+        },
+        "3/8/2020": {
+          "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=01&locationName=Tim+%26+Jeanne%27s+Dining+Commons&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=3%2f8%2f2020",
+          "meals": {}
+        },
+        "3/13/2020": {
+          "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=01&locationName=Tim+%26+Jeanne%27s+Dining+Commons&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=3%2f13%2f2020",
+          "meals": {}
+        },
+        "3/12/2020": {
+          "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=01&locationName=Tim+%26+Jeanne%27s+Dining+Commons&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=3%2f12%2f2020",
+          "meals": {}
+        },
+        "3/6/2020": {
+          "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=01&locationName=Tim+%26+Jeanne%27s+Dining+Commons&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=3%2f6%2f2020",
+          "meals": {}
+        },
+        "3/14/2020": {
+          "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=01&locationName=Tim+%26+Jeanne%27s+Dining+Commons&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=3%2f14%2f2020",
+          "meals": {}
+        },
+        "3/7/2020": {
+          "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=01&locationName=Tim+%26+Jeanne%27s+Dining+Commons&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=3%2f7%2f2020",
+          "meals": {}
+        },
+        "3/11/2020": {
+          "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=01&locationName=Tim+%26+Jeanne%27s+Dining+Commons&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=3%2f11%2f2020",
+          "meals": {}
+        },
+        "3/9/2020": {
+          "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=01&locationName=Tim+%26+Jeanne%27s+Dining+Commons&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=3%2f9%2f2020",
+          "meals": {}
+        },
+        "3/5/2020": {
+          "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=01&locationName=Tim+%26+Jeanne%27s+Dining+Commons&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=3%2f5%2f2020",
+          "meals": {}
+        }
+      }
+    },
+    "locationInfo": {
+      "hours": {
+        "Monday": [
+          "7:00am-10:00pm"
+        ],
+        "Tuesday": [
+          "7:00am-10:00pm"
+        ],
+        "Wednesday": [
+          "7:00am-10:00pm"
+        ],
+        "Thursday": [
+          "7:00am-10:00pm"
+        ],
+        "Friday": [
+          "7:00am-9:00pm"
+        ],
+        "Saturday": [
+          "7:00am-9:00pm"
+        ],
+        "Sunday": [
+          "7:00am-10:00pm"
+        ]
+      }
+    }
+  },
+  {
+    "name": "Marketplace",
+    "description": "Offering fresh made salads and sandwiches, baked goods, fresh local bagels, fair trade organic coffee, nitro brew, cold brew, snacks, and convenience items.",
+    "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=09&locationName=Marketplace&naFlag=1",
+    "menuCollection": {
+      "dayMenus": {
+        "3/10/2020": {
+          "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=09&locationName=Marketplace&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=3%2f10%2f2020",
+          "meals": {}
+        },
+        "3/8/2020": {
+          "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=09&locationName=Marketplace&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=3%2f8%2f2020",
+          "meals": {}
+        },
+        "3/12/2020": {
+          "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=09&locationName=Marketplace&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=3%2f12%2f2020",
+          "meals": {}
+        },
+        "3/6/2020": {
+          "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=09&locationName=Marketplace&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=3%2f6%2f2020",
+          "meals": {}
+        },
+        "3/7/2020": {
+          "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=09&locationName=Marketplace&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=3%2f7%2f2020",
+          "meals": {}
+        },
+        "3/11/2020": {
+          "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=09&locationName=Marketplace&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=3%2f11%2f2020",
+          "meals": {}
+        },
+        "3/9/2020": {
+          "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=09&locationName=Marketplace&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=3%2f9%2f2020",
+          "meals": {}
+        }
+      }
+    },
+    "locationInfo": {
+      "hours": {
+        "Monday": [
+          "8:30am-12:00am"
+        ],
+        "Tuesday": [
+          "8:30am-12:00am"
+        ],
+        "Wednesday": [
+          "8:30am-12:00am"
+        ],
+        "Thursday": [
+          "8:30am-12:00am"
+        ],
+        "Friday": [
+          "8:30am-10:00pm"
+        ],
+        "Saturday": [
+          "12:00pm-12:00am"
+        ],
+        "Sunday": [
+          "12:00pm-12:00am"
+        ]
+      }
+    }
+  },
+  {
+    "name": "TJ Bistro",
+    "description": "Serving delicious breakfast and lunch options including freshly prepared salads, wraps, Mexican cuisine, sushi, brick oven pizza and Grab & Go meals.",
+    "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=22&locationName=TJ+Bistro&naFlag=1",
+    "menuCollection": {
+      "dayMenus": {
+        "3/10/2020": {
+          "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=22&locationName=TJ+Bistro&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=3%2f10%2f2020",
+          "meals": {
+            "Grab & Go": {
+              "categories": {
+                "Grab n'Go": [
+                  {
+                    "mealItem": "Buffalo Chicken Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caesar Chicken Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Garden Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Ham & Cheddar Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Mixed Fruit Cup",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Peanut Butter & Jelly Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Turkey Cheddar Sandwich",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            },
+            "Late Night": {
+              "categories": {
+                "Add-ons": [
+                  {
+                    "mealItem": "Add Extra Bacon",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add Extra Cheeseburger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add Extra Onions",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add extra pickles",
+                    "allergyItems": []
+                  }
+                ],
+                "Late Night": [
+                  {
+                    "mealItem": "Cheese Pizza",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Tenders",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Tenders & Fries",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "French Fries",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Mozzarella Sticks",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Pepperoni Pizza",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "TJ Bistro Cheese Burger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "TJ Bistro Double Cheese Burger",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            },
+            "TJ Bistro": {
+              "categories": {
+                "Add-ons": [
+                  {
+                    "mealItem": "Add Extra Bacon",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add Extra Cheeseburger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add Extra Onions",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add extra pickles",
+                    "allergyItems": []
+                  }
+                ],
+                "Breakfast Entrees": [
+                  {
+                    "mealItem": "Egg and Cheese Bagel",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg and Cheese English Muffin",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese and Bacon English Muffin",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese, and Bacon Bagel",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese, and Sausage  English Muffin",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese, and Sausage Bagel",
+                    "allergyItems": []
+                  }
+                ],
+                "Bistro Lunch": [
+                  {
+                    "mealItem": "Bacon Cheeseburger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Cheese Pizza",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Pepperoni Pizza",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Rice Bowl",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "TJ Bistro Cheese Burger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "TJ Bistro Double Cheese Burger",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "3/8/2020": {
+          "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=22&locationName=TJ+Bistro&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=3%2f8%2f2020",
+          "meals": {
+            "Grab & Go": {
+              "categories": {
+                "Grab n'Go": [
+                  {
+                    "mealItem": "Buffalo Chicken Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caesar Chicken Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Garden Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Ham & Cheddar Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Mixed Fruit Cup",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Peanut Butter & Jelly Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Turkey Cheddar Sandwich",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            },
+            "Late Night": {
+              "categories": {
+                "Add-ons": [
+                  {
+                    "mealItem": "Add Extra Bacon",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add Extra Cheeseburger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add Extra Onions",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add extra pickles",
+                    "allergyItems": []
+                  }
+                ],
+                "Late Night": [
+                  {
+                    "mealItem": "Cheese Pizza",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Tenders",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Tenders & Fries",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "French Fries",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Mozzarella Sticks",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Pepperoni Pizza",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "TJ Bistro Cheese Burger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "TJ Bistro Double Cheese Burger",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            },
+            "TJ Bistro": {
+              "categories": {
+                "Add-ons": [
+                  {
+                    "mealItem": "Add Extra Bacon",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add Extra Cheeseburger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add Extra Onions",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add extra pickles",
+                    "allergyItems": []
+                  }
+                ],
+                "Breakfast Entrees": [
+                  {
+                    "mealItem": "Egg and Cheese Bagel",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg and Cheese English Muffin",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese and Bacon English Muffin",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese, and Bacon Bagel",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese, and Sausage  English Muffin",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese, and Sausage Bagel",
+                    "allergyItems": []
+                  }
+                ],
+                "Bistro Lunch": [
+                  {
+                    "mealItem": "Bacon Cheeseburger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Cheese Pizza",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Pepperoni Pizza",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Rice Bowl",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "TJ Bistro Cheese Burger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "TJ Bistro Double Cheese Burger",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "3/13/2020": {
+          "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=22&locationName=TJ+Bistro&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=3%2f13%2f2020",
+          "meals": {
+            "Grab & Go": {
+              "categories": {
+                "Grab n'Go": [
+                  {
+                    "mealItem": "Buffalo Chicken Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caesar Chicken Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Garden Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Ham & Cheddar Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Mixed Fruit Cup",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Peanut Butter & Jelly Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Turkey Cheddar Sandwich",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            },
+            "Late Night": {
+              "categories": {
+                "Add-ons": [
+                  {
+                    "mealItem": "Add Extra Bacon",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add Extra Cheeseburger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add Extra Onions",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add extra pickles",
+                    "allergyItems": []
+                  }
+                ],
+                "Late Night": [
+                  {
+                    "mealItem": "Cheese Pizza",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Tenders",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Tenders & Fries",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "French Fries",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Mozzarella Sticks",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Pepperoni Pizza",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "TJ Bistro Cheese Burger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "TJ Bistro Double Cheese Burger",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            },
+            "TJ Bistro": {
+              "categories": {
+                "Add-ons": [
+                  {
+                    "mealItem": "Add Extra Bacon",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add Extra Cheeseburger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add Extra Onions",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add extra pickles",
+                    "allergyItems": []
+                  }
+                ],
+                "Breakfast Entrees": [
+                  {
+                    "mealItem": "Egg and Cheese Bagel",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg and Cheese English Muffin",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese and Bacon English Muffin",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese, and Bacon Bagel",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese, and Sausage  English Muffin",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese, and Sausage Bagel",
+                    "allergyItems": []
+                  }
+                ],
+                "Bistro Lunch": [
+                  {
+                    "mealItem": "Bacon Cheeseburger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Cheese Pizza",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Pepperoni Pizza",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Rice Bowl",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "TJ Bistro Cheese Burger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "TJ Bistro Double Cheese Burger",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "3/15/2020": {
+          "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=22&locationName=TJ+Bistro&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=3%2f15%2f2020",
+          "meals": {
+            "Grab & Go": {
+              "categories": {
+                "Grab n'Go": [
+                  {
+                    "mealItem": "Buffalo Chicken Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caesar Chicken Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Garden Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Ham & Cheddar Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Mixed Fruit Cup",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Peanut Butter & Jelly Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Turkey Cheddar Sandwich",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            },
+            "Late Night": {
+              "categories": {
+                "Add-ons": [
+                  {
+                    "mealItem": "Add Extra Bacon",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add Extra Cheeseburger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add Extra Onions",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add extra pickles",
+                    "allergyItems": []
+                  }
+                ],
+                "Late Night": [
+                  {
+                    "mealItem": "Cheese Pizza",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Tenders",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Tenders & Fries",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "French Fries",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Mozzarella Sticks",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Pepperoni Pizza",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "TJ Bistro Cheese Burger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "TJ Bistro Double Cheese Burger",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            },
+            "TJ Bistro": {
+              "categories": {
+                "Add-ons": [
+                  {
+                    "mealItem": "Add Extra Bacon",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add Extra Cheeseburger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add Extra Onions",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add extra pickles",
+                    "allergyItems": []
+                  }
+                ],
+                "Breakfast Entrees": [
+                  {
+                    "mealItem": "Egg and Cheese Bagel",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg and Cheese English Muffin",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese and Bacon English Muffin",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese, and Bacon Bagel",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese, and Sausage  English Muffin",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese, and Sausage Bagel",
+                    "allergyItems": []
+                  }
+                ],
+                "Bistro Lunch": [
+                  {
+                    "mealItem": "Bacon Cheeseburger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Cheese Pizza",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Pepperoni Pizza",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Rice Bowl",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "TJ Bistro Cheese Burger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "TJ Bistro Double Cheese Burger",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "3/12/2020": {
+          "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=22&locationName=TJ+Bistro&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=3%2f12%2f2020",
+          "meals": {
+            "Grab & Go": {
+              "categories": {
+                "Grab n'Go": [
+                  {
+                    "mealItem": "Buffalo Chicken Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caesar Chicken Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Garden Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Ham & Cheddar Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Mixed Fruit Cup",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Peanut Butter & Jelly Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Turkey Cheddar Sandwich",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            },
+            "Late Night": {
+              "categories": {
+                "Add-ons": [
+                  {
+                    "mealItem": "Add Extra Bacon",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add Extra Cheeseburger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add Extra Onions",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add extra pickles",
+                    "allergyItems": []
+                  }
+                ],
+                "Late Night": [
+                  {
+                    "mealItem": "Cheese Pizza",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Tenders",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Tenders & Fries",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "French Fries",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Mozzarella Sticks",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Pepperoni Pizza",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "TJ Bistro Cheese Burger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "TJ Bistro Double Cheese Burger",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            },
+            "TJ Bistro": {
+              "categories": {
+                "Add-ons": [
+                  {
+                    "mealItem": "Add Extra Bacon",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add Extra Cheeseburger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add Extra Onions",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add extra pickles",
+                    "allergyItems": []
+                  }
+                ],
+                "Breakfast Entrees": [
+                  {
+                    "mealItem": "Egg and Cheese Bagel",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg and Cheese English Muffin",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese and Bacon English Muffin",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese, and Bacon Bagel",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese, and Sausage  English Muffin",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese, and Sausage Bagel",
+                    "allergyItems": []
+                  }
+                ],
+                "Bistro Lunch": [
+                  {
+                    "mealItem": "Bacon Cheeseburger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Cheese Pizza",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Pepperoni Pizza",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Rice Bowl",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "TJ Bistro Cheese Burger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "TJ Bistro Double Cheese Burger",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "3/6/2020": {
+          "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=22&locationName=TJ+Bistro&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=3%2f6%2f2020",
+          "meals": {
+            "Grab & Go": {
+              "categories": {
+                "Grab n'Go": [
+                  {
+                    "mealItem": "Buffalo Chicken Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caesar Chicken Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Garden Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Ham & Cheddar Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Mixed Fruit Cup",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Peanut Butter & Jelly Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Turkey Cheddar Sandwich",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            },
+            "Late Night": {
+              "categories": {
+                "Add-ons": [
+                  {
+                    "mealItem": "Add Extra Bacon",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add Extra Cheeseburger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add Extra Onions",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add extra pickles",
+                    "allergyItems": []
+                  }
+                ],
+                "Late Night": [
+                  {
+                    "mealItem": "Cheese Pizza",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Tenders",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Tenders & Fries",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "French Fries",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Mozzarella Sticks",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Pepperoni Pizza",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "TJ Bistro Cheese Burger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "TJ Bistro Double Cheese Burger",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            },
+            "TJ Bistro": {
+              "categories": {
+                "Add-ons": [
+                  {
+                    "mealItem": "Add Extra Bacon",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add Extra Cheeseburger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add Extra Onions",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add extra pickles",
+                    "allergyItems": []
+                  }
+                ],
+                "Breakfast Entrees": [
+                  {
+                    "mealItem": "Egg and Cheese Bagel",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg and Cheese English Muffin",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese and Bacon English Muffin",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese, and Bacon Bagel",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese, and Sausage  English Muffin",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese, and Sausage Bagel",
+                    "allergyItems": []
+                  }
+                ],
+                "Bistro Lunch": [
+                  {
+                    "mealItem": "Bacon Cheeseburger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Cheese Pizza",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Pepperoni Pizza",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Rice Bowl",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "TJ Bistro Cheese Burger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "TJ Bistro Double Cheese Burger",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "3/14/2020": {
+          "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=22&locationName=TJ+Bistro&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=3%2f14%2f2020",
+          "meals": {
+            "Grab & Go": {
+              "categories": {
+                "Grab n'Go": [
+                  {
+                    "mealItem": "Buffalo Chicken Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caesar Chicken Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Garden Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Ham & Cheddar Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Mixed Fruit Cup",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Peanut Butter & Jelly Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Turkey Cheddar Sandwich",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            },
+            "Late Night": {
+              "categories": {
+                "Add-ons": [
+                  {
+                    "mealItem": "Add Extra Bacon",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add Extra Cheeseburger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add Extra Onions",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add extra pickles",
+                    "allergyItems": []
+                  }
+                ],
+                "Late Night": [
+                  {
+                    "mealItem": "Cheese Pizza",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Tenders",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Tenders & Fries",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "French Fries",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Mozzarella Sticks",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Pepperoni Pizza",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "TJ Bistro Cheese Burger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "TJ Bistro Double Cheese Burger",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            },
+            "TJ Bistro": {
+              "categories": {
+                "Add-ons": [
+                  {
+                    "mealItem": "Add Extra Bacon",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add Extra Cheeseburger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add Extra Onions",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add extra pickles",
+                    "allergyItems": []
+                  }
+                ],
+                "Breakfast Entrees": [
+                  {
+                    "mealItem": "Egg and Cheese Bagel",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg and Cheese English Muffin",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese and Bacon English Muffin",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese, and Bacon Bagel",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese, and Sausage  English Muffin",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese, and Sausage Bagel",
+                    "allergyItems": []
+                  }
+                ],
+                "Bistro Lunch": [
+                  {
+                    "mealItem": "Bacon Cheeseburger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Cheese Pizza",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Pepperoni Pizza",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Rice Bowl",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "TJ Bistro Cheese Burger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "TJ Bistro Double Cheese Burger",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "3/7/2020": {
+          "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=22&locationName=TJ+Bistro&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=3%2f7%2f2020",
+          "meals": {
+            "Grab & Go": {
+              "categories": {
+                "Grab n'Go": [
+                  {
+                    "mealItem": "Buffalo Chicken Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caesar Chicken Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Garden Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Ham & Cheddar Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Mixed Fruit Cup",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Peanut Butter & Jelly Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Turkey Cheddar Sandwich",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            },
+            "Late Night": {
+              "categories": {
+                "Add-ons": [
+                  {
+                    "mealItem": "Add Extra Bacon",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add Extra Cheeseburger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add Extra Onions",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add extra pickles",
+                    "allergyItems": []
+                  }
+                ],
+                "Late Night": [
+                  {
+                    "mealItem": "Cheese Pizza",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Tenders",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Tenders & Fries",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "French Fries",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Mozzarella Sticks",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Pepperoni Pizza",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "TJ Bistro Cheese Burger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "TJ Bistro Double Cheese Burger",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            },
+            "TJ Bistro": {
+              "categories": {
+                "Add-ons": [
+                  {
+                    "mealItem": "Add Extra Bacon",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add Extra Cheeseburger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add Extra Onions",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add extra pickles",
+                    "allergyItems": []
+                  }
+                ],
+                "Breakfast Entrees": [
+                  {
+                    "mealItem": "Egg and Cheese Bagel",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg and Cheese English Muffin",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese and Bacon English Muffin",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese, and Bacon Bagel",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese, and Sausage  English Muffin",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese, and Sausage Bagel",
+                    "allergyItems": []
+                  }
+                ],
+                "Bistro Lunch": [
+                  {
+                    "mealItem": "Bacon Cheeseburger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Cheese Pizza",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Pepperoni Pizza",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Rice Bowl",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "TJ Bistro Cheese Burger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "TJ Bistro Double Cheese Burger",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "3/11/2020": {
+          "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=22&locationName=TJ+Bistro&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=3%2f11%2f2020",
+          "meals": {
+            "Grab & Go": {
+              "categories": {
+                "Grab n'Go": [
+                  {
+                    "mealItem": "Buffalo Chicken Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caesar Chicken Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Garden Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Ham & Cheddar Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Mixed Fruit Cup",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Peanut Butter & Jelly Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Turkey Cheddar Sandwich",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            },
+            "Late Night": {
+              "categories": {
+                "Add-ons": [
+                  {
+                    "mealItem": "Add Extra Bacon",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add Extra Cheeseburger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add Extra Onions",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add extra pickles",
+                    "allergyItems": []
+                  }
+                ],
+                "Late Night": [
+                  {
+                    "mealItem": "Cheese Pizza",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Tenders",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Tenders & Fries",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "French Fries",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Mozzarella Sticks",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Pepperoni Pizza",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "TJ Bistro Cheese Burger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "TJ Bistro Double Cheese Burger",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            },
+            "TJ Bistro": {
+              "categories": {
+                "Add-ons": [
+                  {
+                    "mealItem": "Add Extra Bacon",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add Extra Cheeseburger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add Extra Onions",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add extra pickles",
+                    "allergyItems": []
+                  }
+                ],
+                "Breakfast Entrees": [
+                  {
+                    "mealItem": "Egg and Cheese Bagel",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg and Cheese English Muffin",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese and Bacon English Muffin",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese, and Bacon Bagel",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese, and Sausage  English Muffin",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese, and Sausage Bagel",
+                    "allergyItems": []
+                  }
+                ],
+                "Bistro Lunch": [
+                  {
+                    "mealItem": "Bacon Cheeseburger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Cheese Pizza",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Pepperoni Pizza",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Rice Bowl",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "TJ Bistro Cheese Burger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "TJ Bistro Double Cheese Burger",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "3/9/2020": {
+          "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=22&locationName=TJ+Bistro&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=3%2f9%2f2020",
+          "meals": {
+            "Grab & Go": {
+              "categories": {
+                "Grab n'Go": [
+                  {
+                    "mealItem": "Buffalo Chicken Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caesar Chicken Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Garden Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Ham & Cheddar Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Mixed Fruit Cup",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Peanut Butter & Jelly Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Turkey Cheddar Sandwich",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            },
+            "Late Night": {
+              "categories": {
+                "Add-ons": [
+                  {
+                    "mealItem": "Add Extra Bacon",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add Extra Cheeseburger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add Extra Onions",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add extra pickles",
+                    "allergyItems": []
+                  }
+                ],
+                "Late Night": [
+                  {
+                    "mealItem": "Cheese Pizza",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Tenders",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Tenders & Fries",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "French Fries",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Mozzarella Sticks",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Pepperoni Pizza",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "TJ Bistro Cheese Burger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "TJ Bistro Double Cheese Burger",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            },
+            "TJ Bistro": {
+              "categories": {
+                "Add-ons": [
+                  {
+                    "mealItem": "Add Extra Bacon",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add Extra Cheeseburger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add Extra Onions",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Add extra pickles",
+                    "allergyItems": []
+                  }
+                ],
+                "Breakfast Entrees": [
+                  {
+                    "mealItem": "Egg and Cheese Bagel",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg and Cheese English Muffin",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese and Bacon English Muffin",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese, and Bacon Bagel",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese, and Sausage  English Muffin",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese, and Sausage Bagel",
+                    "allergyItems": []
+                  }
+                ],
+                "Bistro Lunch": [
+                  {
+                    "mealItem": "Bacon Cheeseburger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Cheese Pizza",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Pepperoni Pizza",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Rice Bowl",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "TJ Bistro Cheese Burger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "TJ Bistro Double Cheese Burger",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            }
+          }
+        }
+      }
+    },
+    "locationInfo": {
+      "hours": {
+        "Monday": [
+          "8:00am-4:00pm",
+          "6:00pm-12:00am"
+        ],
+        "Tuesday": [
+          "8:00am-4:00pm",
+          "6:00pm-12:00am"
+        ],
+        "Wednesday": [
+          "8:00am-4:00pm",
+          "6:00pm-12:00am"
+        ],
+        "Thursday": [
+          "8:00am-4:00pm",
+          "6:00pm-12:00am"
+        ],
+        "Friday": [
+          "8:00am-4:00pm",
+          "6:00pm-1:00am"
+        ],
+        "Saturday": [
+          "6:00pm-1:00am"
+        ],
+        "Sunday": [
+          "6:00pm-12:00am"
+        ]
+      }
+    }
+  },
+  {
+    "name": "Ely Harvest",
+    "description": "Featuring gourmet sandwiches, wraps, salads and made-to-order smoothies and acai bowls. Protein-packed options are also available for eating on-the-go!",
+    "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=45&locationName=Ely+Harvest&naFlag=1",
+    "menuCollection": {
+      "dayMenus": {
+        "3/10/2020": {
+          "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=45&locationName=Ely+Harvest&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=3%2f10%2f2020",
+          "meals": {
+            "Harvest in a Hurry": {
+              "categories": {
+                "Harvest in a Hurry": [
+                  {
+                    "mealItem": "Buffalo Chicken Salad with Blue Cheese",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Buffalo Chicken Wrap with Blue Cheese",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Butterscotch Pudding",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Cantaloupe Fruit Cup",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caprese Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Caesar Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chocolate Pudding",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Garden Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Ham Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Monte",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Veggie Sandwich with Hummus",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Honeydew Fruit Cup",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Mixed Berry Fruit Cup",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Pineapple Fruit Cup",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Southwest Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Southwestern Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Turkey Club Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Vanilla Pudding",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Watermelon Fruit Cup",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            },
+            "Ely Harvest": {
+              "categories": {
+                "Salads & Sandwiches": [
+                  {
+                    "mealItem": "BBQ Chicken Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Blueberry Cheddar Salad with Almonds",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Buffalo Chicken Salad with Blue Cheese",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Buffalo Chicken Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caprese Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Garden Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Veggie Sandwich with Hummus",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Southwest Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Steak and Cheese",
+                    "allergyItems": []
+                  }
+                ],
+                "Smoothies": [
+                  {
+                    "mealItem": "Chocolate Peanutty Banana Smoothie",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Green Monster Smoothie",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Mango Tango Smoothie",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Passionate Pineapple Smoothie",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Summer Blush Smoothie",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Triple Berry Banana Smoothie",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "3/8/2020": {
+          "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=45&locationName=Ely+Harvest&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=3%2f8%2f2020",
+          "meals": {
+            "Harvest in a Hurry": {
+              "categories": {
+                "Harvest in a Hurry": [
+                  {
+                    "mealItem": "Buffalo Chicken Salad with Blue Cheese",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Buffalo Chicken Wrap with Blue Cheese",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Butterscotch Pudding",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Cantaloupe Fruit Cup",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caprese Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Caesar Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chocolate Pudding",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Garden Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Ham Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Monte",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Veggie Sandwich with Hummus",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Honeydew Fruit Cup",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Mixed Berry Fruit Cup",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Pineapple Fruit Cup",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Southwest Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Southwestern Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Turkey Club Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Vanilla Pudding",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Watermelon Fruit Cup",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            },
+            "Ely Harvest": {
+              "categories": {
+                "Salads & Sandwiches": [
+                  {
+                    "mealItem": "BBQ Chicken Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Blueberry Cheddar Salad with Almonds",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Buffalo Chicken Salad with Blue Cheese",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Buffalo Chicken Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caprese Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Garden Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Veggie Sandwich with Hummus",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Southwest Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Steak and Cheese",
+                    "allergyItems": []
+                  }
+                ],
+                "Smoothies": [
+                  {
+                    "mealItem": "Chocolate Peanutty Banana Smoothie",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Green Monster Smoothie",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Mango Tango Smoothie",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Passionate Pineapple Smoothie",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Summer Blush Smoothie",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Triple Berry Banana Smoothie",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "3/12/2020": {
+          "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=45&locationName=Ely+Harvest&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=3%2f12%2f2020",
+          "meals": {
+            "Harvest in a Hurry": {
+              "categories": {
+                "Harvest in a Hurry": [
+                  {
+                    "mealItem": "Buffalo Chicken Salad with Blue Cheese",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Buffalo Chicken Wrap with Blue Cheese",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Butterscotch Pudding",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Cantaloupe Fruit Cup",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caprese Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Caesar Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chocolate Pudding",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Garden Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Ham Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Monte",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Veggie Sandwich with Hummus",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Honeydew Fruit Cup",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Mixed Berry Fruit Cup",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Pineapple Fruit Cup",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Southwest Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Southwestern Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Turkey Club Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Vanilla Pudding",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Watermelon Fruit Cup",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            },
+            "Ely Harvest": {
+              "categories": {
+                "Salads & Sandwiches": [
+                  {
+                    "mealItem": "BBQ Chicken Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Blueberry Cheddar Salad with Almonds",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Buffalo Chicken Salad with Blue Cheese",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Buffalo Chicken Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caprese Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Garden Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Veggie Sandwich with Hummus",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Southwest Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Steak and Cheese",
+                    "allergyItems": []
+                  }
+                ],
+                "Smoothies": [
+                  {
+                    "mealItem": "Chocolate Peanutty Banana Smoothie",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Green Monster Smoothie",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Mango Tango Smoothie",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Passionate Pineapple Smoothie",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Summer Blush Smoothie",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Triple Berry Banana Smoothie",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "3/6/2020": {
+          "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=45&locationName=Ely+Harvest&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=3%2f6%2f2020",
+          "meals": {
+            "Harvest in a Hurry": {
+              "categories": {
+                "Harvest in a Hurry": [
+                  {
+                    "mealItem": "Buffalo Chicken Salad with Blue Cheese",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Buffalo Chicken Wrap with Blue Cheese",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Butterscotch Pudding",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Cantaloupe Fruit Cup",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caprese Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Caesar Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chocolate Pudding",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Garden Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Ham Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Monte",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Veggie Sandwich with Hummus",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Honeydew Fruit Cup",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Mixed Berry Fruit Cup",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Pineapple Fruit Cup",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Southwest Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Southwestern Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Turkey Club Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Vanilla Pudding",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Watermelon Fruit Cup",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            },
+            "Ely Harvest": {
+              "categories": {
+                "Salads & Sandwiches": [
+                  {
+                    "mealItem": "BBQ Chicken Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Blueberry Cheddar Salad with Almonds",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Buffalo Chicken Salad with Blue Cheese",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Buffalo Chicken Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caprese Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Garden Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Veggie Sandwich with Hummus",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Southwest Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Steak and Cheese",
+                    "allergyItems": []
+                  }
+                ],
+                "Smoothies": [
+                  {
+                    "mealItem": "Chocolate Peanutty Banana Smoothie",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Green Monster Smoothie",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Mango Tango Smoothie",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Passionate Pineapple Smoothie",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Summer Blush Smoothie",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Triple Berry Banana Smoothie",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "3/7/2020": {
+          "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=45&locationName=Ely+Harvest&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=3%2f7%2f2020",
+          "meals": {
+            "Harvest in a Hurry": {
+              "categories": {
+                "Harvest in a Hurry": [
+                  {
+                    "mealItem": "Buffalo Chicken Salad with Blue Cheese",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Buffalo Chicken Wrap with Blue Cheese",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Butterscotch Pudding",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Cantaloupe Fruit Cup",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caprese Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Caesar Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chocolate Pudding",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Garden Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Ham Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Monte",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Veggie Sandwich with Hummus",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Honeydew Fruit Cup",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Mixed Berry Fruit Cup",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Pineapple Fruit Cup",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Southwest Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Southwestern Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Turkey Club Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Vanilla Pudding",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Watermelon Fruit Cup",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            },
+            "Ely Harvest": {
+              "categories": {
+                "Salads & Sandwiches": [
+                  {
+                    "mealItem": "BBQ Chicken Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Blueberry Cheddar Salad with Almonds",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Buffalo Chicken Salad with Blue Cheese",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Buffalo Chicken Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caprese Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Garden Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Veggie Sandwich with Hummus",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Southwest Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Steak and Cheese",
+                    "allergyItems": []
+                  }
+                ],
+                "Smoothies": [
+                  {
+                    "mealItem": "Chocolate Peanutty Banana Smoothie",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Green Monster Smoothie",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Mango Tango Smoothie",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Passionate Pineapple Smoothie",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Summer Blush Smoothie",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Triple Berry Banana Smoothie",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "3/11/2020": {
+          "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=45&locationName=Ely+Harvest&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=3%2f11%2f2020",
+          "meals": {
+            "Harvest in a Hurry": {
+              "categories": {
+                "Harvest in a Hurry": [
+                  {
+                    "mealItem": "Buffalo Chicken Salad with Blue Cheese",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Buffalo Chicken Wrap with Blue Cheese",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Butterscotch Pudding",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Cantaloupe Fruit Cup",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caprese Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Caesar Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chocolate Pudding",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Garden Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Ham Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Monte",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Veggie Sandwich with Hummus",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Honeydew Fruit Cup",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Mixed Berry Fruit Cup",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Pineapple Fruit Cup",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Southwest Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Southwestern Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Turkey Club Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Vanilla Pudding",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Watermelon Fruit Cup",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            },
+            "Ely Harvest": {
+              "categories": {
+                "Salads & Sandwiches": [
+                  {
+                    "mealItem": "BBQ Chicken Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Blueberry Cheddar Salad with Almonds",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Buffalo Chicken Salad with Blue Cheese",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Buffalo Chicken Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caprese Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Garden Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Veggie Sandwich with Hummus",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Southwest Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Steak and Cheese",
+                    "allergyItems": []
+                  }
+                ],
+                "Smoothies": [
+                  {
+                    "mealItem": "Chocolate Peanutty Banana Smoothie",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Green Monster Smoothie",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Mango Tango Smoothie",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Passionate Pineapple Smoothie",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Summer Blush Smoothie",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Triple Berry Banana Smoothie",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "3/9/2020": {
+          "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=45&locationName=Ely+Harvest&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=3%2f9%2f2020",
+          "meals": {
+            "Harvest in a Hurry": {
+              "categories": {
+                "Harvest in a Hurry": [
+                  {
+                    "mealItem": "Buffalo Chicken Salad with Blue Cheese",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Buffalo Chicken Wrap with Blue Cheese",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Butterscotch Pudding",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Cantaloupe Fruit Cup",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caprese Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Caesar Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chocolate Pudding",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Garden Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Ham Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Monte",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Veggie Sandwich with Hummus",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Honeydew Fruit Cup",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Mixed Berry Fruit Cup",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Pineapple Fruit Cup",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Southwest Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Southwestern Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Turkey Club Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Vanilla Pudding",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Watermelon Fruit Cup",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            },
+            "Ely Harvest": {
+              "categories": {
+                "Salads & Sandwiches": [
+                  {
+                    "mealItem": "BBQ Chicken Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Blueberry Cheddar Salad with Almonds",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Buffalo Chicken Salad with Blue Cheese",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Buffalo Chicken Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caprese Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Garden Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Veggie Sandwich with Hummus",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Southwest Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Steak and Cheese",
+                    "allergyItems": []
+                  }
+                ],
+                "Smoothies": [
+                  {
+                    "mealItem": "Chocolate Peanutty Banana Smoothie",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Green Monster Smoothie",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Mango Tango Smoothie",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Passionate Pineapple Smoothie",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Summer Blush Smoothie",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Triple Berry Banana Smoothie",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            }
+          }
+        }
+      }
+    },
+    "locationInfo": {
+      "hours": {
+        "Monday": [
+          "8:00am-11:00pm"
+        ],
+        "Tuesday": [
+          "8:00am-11:00pm"
+        ],
+        "Wednesday": [
+          "8:00am-11:00pm"
+        ],
+        "Thursday": [
+          "8:00am-11:00pm"
+        ],
+        "Friday": [
+          "8:00am-8:00pm"
+        ],
+        "Saturday": [
+          "12:00pm-7:00pm"
+        ],
+        "Sunday": [
+          "12:00pm-11:00pm"
+        ]
+      }
+    }
+  },
+  {
+    "name": "Wilson Café ",
+    "description": "Offering a variety of campus favorites including gourmet burgers, wraps, and grab & go options.",
+    "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=14&locationName=Wilson+Caf%c3%a9+&naFlag=1",
+    "menuCollection": {
+      "dayMenus": {
+        "3/10/2020": {
+          "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=14&locationName=Wilson+Caf%c3%a9+&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=3%2f10%2f2020",
+          "meals": {
+            "Grab & Go": {
+              "categories": {
+                "Grab n'Go": [
+                  {
+                    "mealItem": "Buffalo Chicken Salad with Blue Cheese",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Buffalo Chicken Wrap with Blue Cheese",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Butterscotch Pudding",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Caesar Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chocolate Pudding",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Garden Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Ham Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Monte",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Southwestern Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Turkey Club Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Vanilla Pudding",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            },
+            "Wilson Cafe": {
+              "categories": {
+                "Breakfast": [
+                  {
+                    "mealItem": "Egg and Cheese Bagel",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg and Cheese English Muffin",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese and Bacon English Muffin",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese, and Bacon Bagel",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese, and Sausage  English Muffin",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese, and Sausage Bagel",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Hashbrown",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Plain Bagel",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Scramble Bowl",
+                    "allergyItems": []
+                  }
+                ],
+                "Lunch/Dinner": [
+                  {
+                    "mealItem": "Buffalo Twister Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Bacon Ranch Twister",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Burger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Tenders",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Tenders & Fries",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Double Chicken Burger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Double Veggie Burger With Cheese",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "French Fries",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Grilled Cheese Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Honey Mustard Twister Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Signature Chicken Twister Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Tuna Melt Panini",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Veggie Burger With Cheese",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Wilson Cheese Burger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Wilson Double Cheese Burger",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "3/8/2020": {
+          "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=14&locationName=Wilson+Caf%c3%a9+&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=3%2f8%2f2020",
+          "meals": {
+            "Grab & Go": {
+              "categories": {
+                "Grab n'Go": [
+                  {
+                    "mealItem": "Buffalo Chicken Salad with Blue Cheese",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Buffalo Chicken Wrap with Blue Cheese",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Butterscotch Pudding",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Caesar Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chocolate Pudding",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Garden Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Ham Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Monte",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Southwestern Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Turkey Club Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Vanilla Pudding",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            },
+            "Wilson Cafe": {
+              "categories": {
+                "Breakfast": [
+                  {
+                    "mealItem": "Egg and Cheese Bagel",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg and Cheese English Muffin",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese and Bacon English Muffin",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese, and Bacon Bagel",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese, and Sausage  English Muffin",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese, and Sausage Bagel",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Hashbrown",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Plain Bagel",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Scramble Bowl",
+                    "allergyItems": []
+                  }
+                ],
+                "Lunch/Dinner": [
+                  {
+                    "mealItem": "Buffalo Twister Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Bacon Ranch Twister",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Burger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Tenders",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Tenders & Fries",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Double Chicken Burger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Double Veggie Burger With Cheese",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "French Fries",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Grilled Cheese Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Honey Mustard Twister Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Signature Chicken Twister Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Tuna Melt Panini",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Veggie Burger With Cheese",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Wilson Cheese Burger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Wilson Double Cheese Burger",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "3/12/2020": {
+          "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=14&locationName=Wilson+Caf%c3%a9+&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=3%2f12%2f2020",
+          "meals": {
+            "Grab & Go": {
+              "categories": {
+                "Grab n'Go": [
+                  {
+                    "mealItem": "Buffalo Chicken Salad with Blue Cheese",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Buffalo Chicken Wrap with Blue Cheese",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Butterscotch Pudding",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Caesar Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chocolate Pudding",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Garden Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Ham Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Monte",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Southwestern Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Turkey Club Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Vanilla Pudding",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            },
+            "Wilson Cafe": {
+              "categories": {
+                "Breakfast": [
+                  {
+                    "mealItem": "Egg and Cheese Bagel",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg and Cheese English Muffin",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese and Bacon English Muffin",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese, and Bacon Bagel",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese, and Sausage  English Muffin",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese, and Sausage Bagel",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Hashbrown",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Plain Bagel",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Scramble Bowl",
+                    "allergyItems": []
+                  }
+                ],
+                "Lunch/Dinner": [
+                  {
+                    "mealItem": "Buffalo Twister Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Bacon Ranch Twister",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Burger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Tenders",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Tenders & Fries",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Double Chicken Burger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Double Veggie Burger With Cheese",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "French Fries",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Grilled Cheese Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Honey Mustard Twister Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Signature Chicken Twister Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Tuna Melt Panini",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Veggie Burger With Cheese",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Wilson Cheese Burger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Wilson Double Cheese Burger",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "3/6/2020": {
+          "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=14&locationName=Wilson+Caf%c3%a9+&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=3%2f6%2f2020",
+          "meals": {
+            "Grab & Go": {
+              "categories": {
+                "Grab n'Go": [
+                  {
+                    "mealItem": "Buffalo Chicken Salad with Blue Cheese",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Buffalo Chicken Wrap with Blue Cheese",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Butterscotch Pudding",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Caesar Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chocolate Pudding",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Garden Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Ham Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Monte",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Southwestern Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Turkey Club Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Vanilla Pudding",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            },
+            "Wilson Cafe": {
+              "categories": {
+                "Breakfast": [
+                  {
+                    "mealItem": "Egg and Cheese Bagel",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg and Cheese English Muffin",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese and Bacon English Muffin",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese, and Bacon Bagel",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese, and Sausage  English Muffin",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese, and Sausage Bagel",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Hashbrown",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Plain Bagel",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Scramble Bowl",
+                    "allergyItems": []
+                  }
+                ],
+                "Lunch/Dinner": [
+                  {
+                    "mealItem": "Buffalo Twister Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Bacon Ranch Twister",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Burger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Tenders",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Tenders & Fries",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Double Chicken Burger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Double Veggie Burger With Cheese",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "French Fries",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Grilled Cheese Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Honey Mustard Twister Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Signature Chicken Twister Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Tuna Melt Panini",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Veggie Burger With Cheese",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Wilson Cheese Burger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Wilson Double Cheese Burger",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "3/7/2020": {
+          "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=14&locationName=Wilson+Caf%c3%a9+&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=3%2f7%2f2020",
+          "meals": {
+            "Grab & Go": {
+              "categories": {
+                "Grab n'Go": [
+                  {
+                    "mealItem": "Buffalo Chicken Salad with Blue Cheese",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Buffalo Chicken Wrap with Blue Cheese",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Butterscotch Pudding",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Caesar Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chocolate Pudding",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Garden Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Ham Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Monte",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Southwestern Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Turkey Club Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Vanilla Pudding",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            },
+            "Wilson Cafe": {
+              "categories": {
+                "Breakfast": [
+                  {
+                    "mealItem": "Egg and Cheese Bagel",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg and Cheese English Muffin",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese and Bacon English Muffin",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese, and Bacon Bagel",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese, and Sausage  English Muffin",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese, and Sausage Bagel",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Hashbrown",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Plain Bagel",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Scramble Bowl",
+                    "allergyItems": []
+                  }
+                ],
+                "Lunch/Dinner": [
+                  {
+                    "mealItem": "Buffalo Twister Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Bacon Ranch Twister",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Burger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Tenders",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Tenders & Fries",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Double Chicken Burger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Double Veggie Burger With Cheese",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "French Fries",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Grilled Cheese Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Honey Mustard Twister Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Signature Chicken Twister Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Tuna Melt Panini",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Veggie Burger With Cheese",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Wilson Cheese Burger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Wilson Double Cheese Burger",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "3/11/2020": {
+          "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=14&locationName=Wilson+Caf%c3%a9+&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=3%2f11%2f2020",
+          "meals": {
+            "Grab & Go": {
+              "categories": {
+                "Grab n'Go": [
+                  {
+                    "mealItem": "Buffalo Chicken Salad with Blue Cheese",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Buffalo Chicken Wrap with Blue Cheese",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Butterscotch Pudding",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Caesar Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chocolate Pudding",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Garden Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Ham Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Monte",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Southwestern Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Turkey Club Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Vanilla Pudding",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            },
+            "Wilson Cafe": {
+              "categories": {
+                "Breakfast": [
+                  {
+                    "mealItem": "Egg and Cheese Bagel",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg and Cheese English Muffin",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese and Bacon English Muffin",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese, and Bacon Bagel",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese, and Sausage  English Muffin",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese, and Sausage Bagel",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Hashbrown",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Plain Bagel",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Scramble Bowl",
+                    "allergyItems": []
+                  }
+                ],
+                "Lunch/Dinner": [
+                  {
+                    "mealItem": "Buffalo Twister Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Bacon Ranch Twister",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Burger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Tenders",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Tenders & Fries",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Double Chicken Burger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Double Veggie Burger With Cheese",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "French Fries",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Grilled Cheese Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Honey Mustard Twister Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Signature Chicken Twister Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Tuna Melt Panini",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Veggie Burger With Cheese",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Wilson Cheese Burger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Wilson Double Cheese Burger",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "3/9/2020": {
+          "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=14&locationName=Wilson+Caf%c3%a9+&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=3%2f9%2f2020",
+          "meals": {
+            "Grab & Go": {
+              "categories": {
+                "Grab n'Go": [
+                  {
+                    "mealItem": "Buffalo Chicken Salad with Blue Cheese",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Buffalo Chicken Wrap with Blue Cheese",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Butterscotch Pudding",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Caesar Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Caesar Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chocolate Pudding",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Garden Salad",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Ham Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Monte",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Harvest Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Southwestern Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Turkey Club Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Vanilla Pudding",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            },
+            "Wilson Cafe": {
+              "categories": {
+                "Breakfast": [
+                  {
+                    "mealItem": "Egg and Cheese Bagel",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg and Cheese English Muffin",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese and Bacon English Muffin",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese, and Bacon Bagel",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese, and Sausage  English Muffin",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Egg, Cheese, and Sausage Bagel",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Hashbrown",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Plain Bagel",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Scramble Bowl",
+                    "allergyItems": []
+                  }
+                ],
+                "Lunch/Dinner": [
+                  {
+                    "mealItem": "Buffalo Twister Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Bacon Ranch Twister",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Burger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Tenders",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Chicken Tenders & Fries",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Double Chicken Burger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Double Veggie Burger With Cheese",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "French Fries",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Grilled Cheese Sandwich",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Honey Mustard Twister Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Signature Chicken Twister Wrap",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Tuna Melt Panini",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Veggie Burger With Cheese",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Wilson Cheese Burger",
+                    "allergyItems": []
+                  },
+                  {
+                    "mealItem": "Wilson Double Cheese Burger",
+                    "allergyItems": []
+                  }
+                ]
+              }
+            }
+          }
+        }
+      }
+    },
+    "locationInfo": null
+  },
+  {
+    "name": "Garden Café ",
+    "description": "Featuring fresh sandwiches, soups, and delicious coffee beverages.",
+    "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=51&locationName=Garden+Caf%c3%a9+&naFlag=1",
+    "menuCollection": {
+      "dayMenus": {
+        "3/10/2020": {
+          "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=51&locationName=Garden+Caf%c3%a9+&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=3%2f10%2f2020",
+          "meals": {}
+        },
+        "3/8/2020": {
+          "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=51&locationName=Garden+Caf%c3%a9+&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=3%2f8%2f2020",
+          "meals": {}
+        },
+        "3/12/2020": {
+          "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=51&locationName=Garden+Caf%c3%a9+&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=3%2f12%2f2020",
+          "meals": {}
+        },
+        "3/6/2020": {
+          "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=51&locationName=Garden+Caf%c3%a9+&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=3%2f6%2f2020",
+          "meals": {}
+        },
+        "3/7/2020": {
+          "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=51&locationName=Garden+Caf%c3%a9+&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=3%2f7%2f2020",
+          "meals": {}
+        },
+        "3/11/2020": {
+          "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=51&locationName=Garden+Caf%c3%a9+&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=3%2f11%2f2020",
+          "meals": {}
+        },
+        "3/9/2020": {
+          "url": "http://www.westfield.ma.edu/diningservices/foodpro.net/shortmenu.aspx?sName=Westfield+State+Dining+Services&locationNum=51&locationName=Garden+Caf%c3%a9+&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=3%2f9%2f2020",
+          "meals": {}
+        }
+      }
+    },
+    "locationInfo": null
+  }
+]

@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:tools="http://schemas.android.com/tools"
+  android:orientation="vertical"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent">
+
+  <androidx.constraintlayout.widget.ConstraintLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+      android:id="@+id/ScrollMain"
+      style="@android:style/Widget.Material.Light.ScrollView"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      app:layout_constraintBottom_toBottomOf="parent"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintHorizontal_bias="0.0"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toTopOf="parent"
+      app:layout_constraintVertical_bias="1.0"
+      tools:layout_constraintStart_toStartOf="parent">
+      <LinearLayout
+        android:id="@+id/LinearLayoutMain"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        android:orientation="vertical">
+        <View
+          android:id="@+id/divider"
+          android:layout_width="match_parent"
+          android:layout_height="10dp"
+          android:background="@color/primaryTextColor" />
+        <androidx.cardview.widget.CardView
+          android:id="@+id/card1"
+          style="@style/Widget.MaterialComponents.CardView"
+          android:layout_width="@dimen/card_width"
+          android:layout_height="match_parent"
+          android:layout_gravity="center"
+          app:cardCornerRadius="4dp"
+          app:contentPadding="5dp">
+          <LinearLayout
+            android:id="@+id/LL1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <ImageView
+              android:id="@+id/image1"
+              android:layout_width="match_parent"
+              android:layout_height="300dp"
+              android:adjustViewBounds="true"
+              android:contentDescription="@string/this_is_an_image"
+              android:cropToPadding="false"
+              android:scaleType="centerCrop"
+              app:srcCompat="@drawable/aprilfool" />
+            <TextView
+              android:id="@+id/text1_1A"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:fontFamily="sans-serif"
+              android:text="@string/AF"
+              android:textAlignment="textStart"
+              android:textColor="@color/titleFont"
+              android:textSize="24sp" />
+            <TextView
+              android:id="@+id/text1_2A"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:fontFamily="sans-serif"
+              android:text="@string/AFDate"
+              android:textColor="@color/hoursFont" />
+            <View
+              android:id="@+id/divider14"
+              android:layout_width="match_parent"
+              android:layout_height="@dimen/card_textview_divider"
+              android:background="@color/primaryTextColor" />
+            <TextView
+              android:id="@+id/text1_3A"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:fontFamily="sans-serif"
+              android:text="@string/AFDescription"
+              android:textColor="@color/descFont" />
+          </LinearLayout>
+        </androidx.cardview.widget.CardView>
+        <View
+          android:id="@+id/divider15"
+          android:layout_width="match_parent"
+          android:layout_height="10dp"
+          android:background="@color/primaryTextColor"
+          android:backgroundTint="@color/primaryTextColor" />
+        <androidx.cardview.widget.CardView
+          android:id="@+id/card2"
+          style="@style/Widget.MaterialComponents.CardView"
+          android:layout_width="@dimen/card_width"
+          android:layout_height="match_parent"
+          android:layout_gravity="center"
+          app:cardCornerRadius="4dp"
+          app:contentPadding="5dp">
+          <LinearLayout
+            android:id="@+id/LL2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <ImageView
+              android:id="@+id/image2"
+              android:layout_width="match_parent"
+              android:layout_height="300dp"
+              android:adjustViewBounds="true"
+              android:contentDescription="@string/this_is_an_image"
+              android:cropToPadding="false"
+              android:scaleType="centerCrop"
+              app:srcCompat="@drawable/thai" />
+            <TextView
+              android:id="@+id/text2_1A"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:fontFamily="sans-serif"
+              android:text="@string/TT"
+              android:textAlignment="textStart"
+              android:textColor="@color/titleFont"
+              android:textSize="24sp" />
+            <TextView
+              android:id="@+id/text2_2A"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:text="@string/TTDate"
+              android:textColor="@color/hoursFont" />
+            <View
+              android:id="@+id/divider16"
+              android:layout_width="match_parent"
+              android:layout_height="@dimen/card_textview_divider"
+              android:background="@color/primaryTextColor" />
+            <TextView
+              android:id="@+id/text2_3A"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:fontFamily="sans-serif"
+              android:text="@string/TTDescription"
+              android:textColor="@color/descFont" />
+          </LinearLayout>
+        </androidx.cardview.widget.CardView>
+        <View
+          android:id="@+id/divider18"
+          android:layout_width="match_parent"
+          android:layout_height="10dp"
+          android:background="@color/primaryTextColor"
+          android:backgroundTint="@color/primaryTextColor" />
+        <androidx.cardview.widget.CardView
+          android:id="@+id/card3"
+          style="@style/Widget.MaterialComponents.CardView"
+          android:layout_width="@dimen/card_width"
+          android:layout_height="match_parent"
+          android:layout_gravity="center"
+          app:cardCornerRadius="4dp"
+          app:contentPadding="5dp">
+          <LinearLayout
+            android:id="@+id/LL3"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <ImageView
+              android:id="@+id/image3"
+              android:layout_width="match_parent"
+              android:layout_height="300dp"
+              android:adjustViewBounds="true"
+              android:contentDescription="@string/this_is_an_image"
+              android:cropToPadding="false"
+              android:scaleType="centerCrop"
+              app:srcCompat="@drawable/easter" />
+            <TextView
+              android:id="@+id/text3_1A"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:fontFamily="sans-serif"
+              android:text="@string/Easter"
+              android:textAlignment="textStart"
+              android:textColor="@color/titleFont"
+              android:textSize="24sp" />
+            <TextView
+              android:id="@+id/text3_2A"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:fontFamily="sans-serif"
+              android:text="@string/EasterDate"
+              android:textColor="@color/hoursFont" />
+            <View
+              android:id="@+id/divider19"
+              android:layout_width="match_parent"
+              android:layout_height="@dimen/card_textview_divider"
+              android:background="@color/primaryTextColor" />
+            <TextView
+              android:id="@+id/text3_3A"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:text="@string/EasterDescription"
+              android:textColor="@color/descFont" />
+          </LinearLayout>
+        </androidx.cardview.widget.CardView>
+        <View
+          android:id="@+id/divider21"
+          android:layout_width="match_parent"
+          android:layout_height="10dp"
+          android:background="@color/primaryTextColor"
+          android:backgroundTint="@color/primaryTextColor" />
+        <androidx.cardview.widget.CardView
+          android:id="@+id/card4"
+          style="@style/Widget.MaterialComponents.CardView"
+          android:layout_width="@dimen/card_width"
+          android:layout_height="match_parent"
+          android:layout_gravity="center"
+          app:cardCornerRadius="4dp"
+          app:contentPadding="5dp">
+          <LinearLayout
+            android:id="@+id/LL4"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <ImageView
+              android:id="@+id/image4"
+              android:layout_width="match_parent"
+              android:layout_height="300dp"
+              android:adjustViewBounds="true"
+              android:contentDescription="@string/this_is_an_image"
+              android:cropToPadding="false"
+              android:scaleType="centerCrop"
+              app:srcCompat="@drawable/earthday" />
+            <TextView
+              android:id="@+id/text4_1A"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:fontFamily="sans-serif"
+              android:text="@string/EarthDay"
+              android:textColor="@color/titleFont"
+              android:textSize="24sp" />
+            <TextView
+              android:id="@+id/text4_2A"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:text="@string/EarthDayDate"
+              android:textColor="@color/hoursFont" />
+            <View
+              android:id="@+id/divider22"
+              android:layout_width="match_parent"
+              android:layout_height="@dimen/card_textview_divider"
+              android:background="@color/primaryTextColor" />
+            <TextView
+              android:id="@+id/text4_3A"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:text="@string/EarthDayDescription"
+              android:textColor="@color/descFont" />
+          </LinearLayout>
+        </androidx.cardview.widget.CardView>
+        <View
+          android:id="@+id/divider23"
+          android:layout_width="match_parent"
+          android:layout_height="10dp"
+          android:background="@color/primaryTextColor"
+          android:backgroundTint="@color/primaryTextColor" />
+        <androidx.cardview.widget.CardView
+          android:id="@+id/card5"
+          style="@style/Widget.MaterialComponents.CardView"
+          android:layout_width="@dimen/card_width"
+          android:layout_height="match_parent"
+          android:layout_gravity="center"
+          app:cardCornerRadius="4dp"
+          app:contentPadding="5dp">
+          <LinearLayout
+            android:id="@+id/LL5"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <ImageView
+              android:id="@+id/image5"
+              android:layout_width="wrap_content"
+              android:layout_height="300dp"
+              android:layout_gravity="center"
+              android:adjustViewBounds="true"
+              android:contentDescription="@string/this_is_an_image"
+              android:cropToPadding="false"
+              android:scaleType="centerInside"
+              app:srcCompat="@drawable/commmuter" />
+            <TextView
+              android:id="@+id/text5_1A"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:text="@string/Commuter"
+              android:textAlignment="textStart"
+              android:textColor="@color/titleFont"
+              android:textSize="24sp" />
+            <TextView
+              android:id="@+id/text5_2A"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:text="@string/CommuterDate"
+              android:textColor="@color/hoursFont" />
+            <View
+              android:id="@+id/divider24"
+              android:layout_width="match_parent"
+              android:layout_height="@dimen/card_textview_divider"
+              android:background="@color/primaryTextColor" />
+            <TextView
+              android:id="@+id/text5_3A"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:text="@string/CommuterDescription" />
+          </LinearLayout>
+        </androidx.cardview.widget.CardView>
+        <View
+          android:id="@+id/divider25"
+          android:layout_width="match_parent"
+          android:layout_height="10dp"
+          android:background="@color/primaryTextColor"
+          android:backgroundTint="@color/primaryTextColor" />
+        <androidx.cardview.widget.CardView
+          android:id="@+id/card6"
+          style="@style/Widget.MaterialComponents.CardView"
+          android:layout_width="@dimen/card_width"
+          android:layout_height="match_parent"
+          android:layout_gravity="center"
+          app:cardCornerRadius="4dp"
+          app:contentPadding="5dp">
+          <LinearLayout
+            android:id="@+id/LL6"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <ImageView
+              android:id="@+id/image6"
+              android:layout_width="match_parent"
+              android:layout_height="300dp"
+              android:adjustViewBounds="true"
+              android:contentDescription="@string/this_is_an_image"
+              android:cropToPadding="false"
+              android:scaleType="centerCrop"
+              app:srcCompat="@drawable/may" />
+            <TextView
+              android:id="@+id/text6_1A"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:fontFamily="sans-serif"
+              android:text="@string/May"
+              android:textColor="@color/titleFont"
+              android:textSize="24sp" />
+            <TextView
+              android:id="@+id/text6_2A"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:text="@string/MayDate"
+              android:textColor="@color/hoursFont" />
+            <View
+              android:id="@+id/divider26"
+              android:layout_width="match_parent"
+              android:layout_height="@dimen/card_textview_divider"
+              android:background="@color/primaryTextColor" />
+            <TextView
+              android:id="@+id/text6_3A"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:text="@string/MayDescription"
+              android:textColor="@color/descFont" />
+          </LinearLayout>
+        </androidx.cardview.widget.CardView>
+        <View
+          android:id="@+id/divider27"
+          android:layout_width="match_parent"
+          android:layout_height="10dp"
+          android:background="@color/primaryTextColor"
+          android:backgroundTint="@color/primaryTextColor" />
+        <androidx.cardview.widget.CardView
+          android:id="@+id/card7"
+          style="@style/Widget.MaterialComponents.CardView"
+          android:layout_width="@dimen/card_width"
+          android:layout_height="match_parent"
+          android:layout_gravity="center"
+          app:cardCornerRadius="4dp"
+          app:contentPadding="5dp">
+          <LinearLayout
+            android:id="@+id/LL7"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <ImageView
+              android:id="@+id/image7"
+              android:layout_width="match_parent"
+              android:layout_height="300dp"
+              android:adjustViewBounds="true"
+              android:contentDescription="@string/this_is_an_image"
+              android:cropToPadding="false"
+              android:scaleType="centerCrop"
+              app:srcCompat="@drawable/finals" />
+            <TextView
+              android:id="@+id/text7_1A"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:text="@string/finals"
+              android:textColor="@color/titleFont"
+              android:textSize="24sp" />
+            <TextView
+              android:id="@+id/text7_2A"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:text="@string/finalsDate"
+              android:textColor="@color/hoursFont" />
+            <View
+              android:id="@+id/divider28"
+              android:layout_width="match_parent"
+              android:layout_height="@dimen/card_textview_divider"
+              android:background="@color/primaryTextColor" />
+            <TextView
+              android:id="@+id/text7_3A"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:text="@string/finalsDescription"
+              android:textColor="@color/descFont" />
+          </LinearLayout>
+        </androidx.cardview.widget.CardView>
+        <View
+          android:id="@+id/divider29"
+          android:layout_width="match_parent"
+          android:layout_height="10dp"
+          android:background="@color/primaryTextColor"
+          android:backgroundTint="@color/primaryTextColor" />
+        <androidx.cardview.widget.CardView
+          android:id="@+id/card8"
+          style="@style/Widget.MaterialComponents.CardView"
+          android:layout_width="@dimen/card_width"
+          android:layout_height="match_parent"
+          android:layout_gravity="center"
+          app:cardCornerRadius="4dp"
+          app:contentPadding="5dp">
+          <LinearLayout
+            android:id="@+id/LL8"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <ImageView
+              android:id="@+id/image8"
+              android:layout_width="match_parent"
+              android:layout_height="300dp"
+              android:adjustViewBounds="true"
+              android:contentDescription="@string/this_is_an_image"
+              android:cropToPadding="false"
+              android:scaleType="centerCrop"
+              app:srcCompat="@drawable/cincodemayo" />
+            <TextView
+              android:id="@+id/text8_1A"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:text="@string/Cinco"
+              android:textColor="@color/titleFont"
+              android:textSize="24sp" />
+            <TextView
+              android:id="@+id/text8_2A"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:text="@string/CincoDate"
+              android:textColor="@color/hoursFont" />
+            <View
+              android:id="@+id/divider30"
+              android:layout_width="match_parent"
+              android:layout_height="@dimen/card_textview_divider"
+              android:background="@color/primaryTextColor" />
+            <TextView
+              android:id="@+id/text8_3A"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:text="@string/CincoDescription"
+              android:textColor="@color/descFont" />
+          </LinearLayout>
+        </androidx.cardview.widget.CardView>
+        <View
+          android:id="@+id/divider31"
+          android:layout_width="match_parent"
+          android:layout_height="10dp"
+          android:background="@color/primaryTextColor"
+          android:backgroundTint="@color/primaryTextColor" />
+        <androidx.cardview.widget.CardView
+          android:id="@+id/card9"
+          style="@style/Widget.MaterialComponents.CardView"
+          android:layout_width="@dimen/card_width"
+          android:layout_height="match_parent"
+          android:layout_gravity="center"
+          app:cardBackgroundColor="#FFFFFF"
+          app:cardCornerRadius="4dp"
+          app:contentPadding="5dp">
+          <LinearLayout
+            android:id="@+id/LL9"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <ImageView
+              android:id="@+id/image9"
+              android:layout_width="match_parent"
+              android:layout_height="300dp"
+              android:adjustViewBounds="true"
+              android:contentDescription="@string/this_is_an_image"
+              android:cropToPadding="false"
+              android:scaleType="centerCrop"
+              app:srcCompat="@drawable/brunch" />
+            <TextView
+              android:id="@+id/text9_1A"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:text="@string/finalsbrunch"
+              android:textColor="@color/titleFont"
+              android:textSize="24sp" />
+            <TextView
+              android:id="@+id/text9_2A"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:text="@string/brunchDate"
+              android:textColor="@color/hoursFont" />
+            <View
+              android:id="@+id/divider32"
+              android:layout_width="match_parent"
+              android:layout_height="@dimen/card_textview_divider"
+              android:background="@color/primaryTextColor" />
+            <TextView
+              android:id="@+id/text9_3A"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:text="@string/BrunchDescription"
+              android:textColor="@color/descFont" />
+          </LinearLayout>
+        </androidx.cardview.widget.CardView>
+        <View
+          android:id="@+id/divider33"
+          android:layout_width="match_parent"
+          android:layout_height="10dp"
+          android:background="@color/primaryTextColor"
+          android:backgroundTint="@color/primaryTextColor" />
+      </LinearLayout>
+    </ScrollView>
+  </androidx.constraintlayout.widget.ConstraintLayout>
+</LinearLayout>

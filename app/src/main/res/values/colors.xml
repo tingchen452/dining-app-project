@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="primaryColor">#31468c</color>
+  <color name="primaryLightColor">#6371bd</color>
+  <color name="primaryDarkColor">#00205e</color>
+  <color name="primaryTextColor">#ffffff</color>
+  <color name="titleFont">#DE000000</color>
+  <color name="hoursFont">#DE000000</color>
+  <color name="descFont">#99000000</color>
+</resources>
