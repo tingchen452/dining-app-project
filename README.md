@@ -2,10 +2,14 @@
 
 Android dining app created with Android Studio
 
-## Pictures of the Android App
+<h2 align="center"> Pictures of the Android App </h2>
 
-### <p align="center">Main menu page 
-![Image of main menu](https://i.imgur.com/Z6au6sc.png)
+<h3 align="center"> Main menu page </h3> 
+<p align="center">
+  <img width="460" height="300" src="https://i.imgur.com/Z6au6sc.png">
+  <img width="460" height="300" src="https://i.imgur.com/W3LVdxF.png">
+</p>
+
 ![Image of main menu](https://i.imgur.com/W3LVdxF.png) </p>
 ### Event and Feedback page
 ![Image of events](https://i.imgur.com/ORiKfwJ.png)
