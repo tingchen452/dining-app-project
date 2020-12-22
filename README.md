@@ -1,6 +1,6 @@
 <h1 align="center"> Westfield State University Dining-App </h1>
 
-Android dining app created with Android Studio
+Android dining app created with Android Studio that displayed dining locations, description of eacb location, the meals, and the allergens of the meals  
 
 <h2 align="center"> Pictures of the Android App </h2>
 
@@ -27,13 +27,6 @@ Android dining app created with Android Studio
   <img src="https://i.imgur.com/5nSkA0W.png">
   <img src="https://i.imgur.com/SNCjD7Y.png">
 </p>
-
-### Meal menu and Meal time selection function 
-![Image of menu](https://i.imgur.com/vEGBKJC.png)
-![Image of meal time selection](https://i.imgur.com/Rfe1QfH.png)
-### Allergen selection and Searchbar function 
-![Image of allergen selection](https://i.imgur.com/5nSkA0W.png)
-![Image of searchbar](https://i.imgur.com/SNCjD7Y.png) 
 
 
 
