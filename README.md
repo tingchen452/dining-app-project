@@ -1,4 +1,4 @@
-# Westfield State University Dining-App
+<h1 align="center"> Westfield State University Dining-App </h1>
 
 Android dining app created with Android Studio
 
