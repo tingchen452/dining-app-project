@@ -10,10 +10,24 @@ Android dining app created with Android Studio
   <img src="https://i.imgur.com/W3LVdxF.png">
 </p>
 
-![Image of main menu](https://i.imgur.com/W3LVdxF.png) </p>
-### Event and Feedback page
-![Image of events](https://i.imgur.com/ORiKfwJ.png)
-![Image of feedback](https://i.imgur.com/jKERWXS.png)
+<h3 align="center"> Event and Feedback page </h3> 
+<p align="center">
+  <img src="https://i.imgur.com/ORiKfwJ.png">
+  <img src="https://i.imgur.com/jKERWXS.png">
+</p>
+
+<h3 align="center"> Meal menu and Meal time selection function </h3> 
+<p align="center">
+  <img src="https://i.imgur.com/vEGBKJC.png">
+  <img src="https://i.imgur.com/Rfe1QfH.png">
+</p>
+
+<h3 align="center"> Allergen selection and Searchbar function </h3> 
+<p align="center">
+  <img src="https://i.imgur.com/5nSkA0W.png">
+  <img src="https://i.imgur.com/SNCjD7Y.png">
+</p>
+
 ### Meal menu and Meal time selection function 
 ![Image of menu](https://i.imgur.com/vEGBKJC.png)
 ![Image of meal time selection](https://i.imgur.com/Rfe1QfH.png)
