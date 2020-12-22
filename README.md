@@ -1,6 +1,6 @@
 <h1 align="center"> Westfield State University Dining-App </h1>
 
-Android dining app created with Android Studio that displayed dining locations, description of eacb location, the meal menu, and the allergens of each meals.
+Android dining app created with Android Studio that displayed dining locations, description of each location, the meal menu, and the allergens of each meals.
 This project was taken from my gitlab repository, where me and 4 other students worked on this project utilizing the scrum framework.
 
 <h2 align="center"> Pictures of the Android App </h2>
