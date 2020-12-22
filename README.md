@@ -6,8 +6,8 @@ Android dining app created with Android Studio
 
 <h3 align="center"> Main menu page </h3> 
 <p align="center">
-  <img width="460" height="300" src="https://i.imgur.com/Z6au6sc.png">
-  <img width="460" height="300" src="https://i.imgur.com/W3LVdxF.png">
+  <img src="https://i.imgur.com/Z6au6sc.png">
+  <img src="https://i.imgur.com/W3LVdxF.png">
 </p>
 
 ![Image of main menu](https://i.imgur.com/W3LVdxF.png) </p>
